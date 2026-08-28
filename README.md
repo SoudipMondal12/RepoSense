@@ -317,10 +317,6 @@ A bug should not be considered confirmed without supporting repository evidence.
 ## 🖥️ Application Screenshots
 
 <p align="center">
-  <img src="Screenshot%20%2820%29.png"
-       alt="RepoSense Screenshot 1"
-       width="48%">
-  <img src="Screenshot%20%2821%29.png"
-       alt="RepoSense Screenshot 2"
-       width="48%">
+  <img src="./screenshot-1.png" alt="RepoSense Screenshot 1" width="48%">
+  <img src="./screenshot-2.png" alt="RepoSense Screenshot 2" width="48%">
 </p>
