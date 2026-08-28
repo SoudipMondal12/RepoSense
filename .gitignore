@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Local vector stores
+data/vectorstore/
+data/vectorstore_jina/
+data/vectorstore_huggingface/
+
+# Local models
+data/models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

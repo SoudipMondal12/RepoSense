@@ -1,0 +1,10 @@
+streamlit>=1.35,<2
+langchain-core
+langgraph
+langchain-groq
+langchain-chroma
+chromadb
+huggingface-hub
+requests
+networkx
+python-dotenv
