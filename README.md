@@ -533,7 +533,7 @@ A GitHub token is optional when working with public repositories.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/SoudipMondal12/RepoSense](https://github.com/SoudipMondal12/RepoSense)
+git clone https://github.com/SoudipMondal12/RepoSense
 cd RepoScense
 ```
 
