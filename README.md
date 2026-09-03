@@ -533,12 +533,9 @@ A GitHub token is optional when working with public repositories.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RepoScense.git
+git clone [https://github.com/SoudipMondal12/RepoSense](https://github.com/SoudipMondal12/RepoSense)
 cd RepoScense
 ```
-
-> [!NOTE]
-> Replace `YOUR_USERNAME` with your actual GitHub username.
 
 ---
 
@@ -714,8 +711,6 @@ Which other files use it?
 
 </div>
 
-> [!TIP]
-> Make sure `screenshot-1.png` and `screenshot-2.png` are stored in the repository root beside `README.md`.
 
 ---
 
